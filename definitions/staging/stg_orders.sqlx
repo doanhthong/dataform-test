@@ -14,4 +14,10 @@ select
 from
   ${ref("ORDERS")}
 
+<<<<<<< HEAD
 -- asdasd asd asd asd asd
+=======
+
+  -- asdasd
+  -- aaaaa
+>>>>>>> refs/remotes/origin/master
