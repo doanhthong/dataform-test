@@ -15,3 +15,6 @@ from
   ${ref("customer")} as customer
   left join ${ref("nation")} as nations
     on customer.c_nationkey = nations.n_nationkey
+
+
+/*a sdf sdf sdfasdas */

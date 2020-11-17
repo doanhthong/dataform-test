@@ -4,7 +4,7 @@ config {
   tags: ["staging", "daily"],
   description: "Cleaned version of the raw orders table."
 }
-
+-- asdasd
 select
   o_orderkey as order_key,
   o_custkey as customer_key,
@@ -13,3 +13,6 @@ select
   o_totalprice as total_price
 from
   ${ref("ORDERS")}
+
+
+  -- asdasd
