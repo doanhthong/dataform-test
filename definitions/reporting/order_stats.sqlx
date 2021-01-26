@@ -37,3 +37,5 @@ where
   orders.order_key is not null
 group by
   1,2,3,4,5
+
+-- Test
